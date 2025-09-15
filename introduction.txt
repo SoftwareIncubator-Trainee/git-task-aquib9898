@@ -7,3 +7,6 @@ I have a keen Interest in problem Solving
 My skills include Web developement using MERN stack and Competative programming.
 
 My strengths are I Love to achieve perfection, however sometimes that can also act as my weakness.
+
+My skills include HTML, CSS,Javascript, React, Tailwind also cpp.
+My hobbies include reading non-fiction especially psychology.
